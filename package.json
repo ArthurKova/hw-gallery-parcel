@@ -15,6 +15,7 @@
   "author": "Arthur Kovalenko <metaloutcome@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "basiclightbox": "^5.0.4",
     "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
